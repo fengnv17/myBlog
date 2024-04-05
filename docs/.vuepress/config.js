@@ -7,3 +7,4 @@ export default defineUserConfig({
   theme: defaultTheme(),
 })
 
+base: 'myBlog'
